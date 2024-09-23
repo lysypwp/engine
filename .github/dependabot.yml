@@ -1,5 +1,5 @@
-version: 2
-updates:
+version: adaptive
+updates: 
   - package-ecosystem: "github-actions"
     directory: "/"
     # Look for `package.json` and `lock` files in the `root` directory
